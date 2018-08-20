@@ -85,6 +85,7 @@
             listArray.push(this.orders[i]);
           }
         }
+        console.log(statetype + listArray);
         // 返回处理后的值
         return listArray;
       }
